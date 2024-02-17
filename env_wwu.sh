@@ -1,0 +1,2 @@
+export WANDB_API_KEY=18afa46c0f9d1a42f1e8c74bd2ba1c788e408f7e
+export HF_HOME=/workspace/cache/huggingface
